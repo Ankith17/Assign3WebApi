@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEntityFrameWork", "WebApiEntityFrameWork\WebApiEntityFrameWork.csproj", "{797C8E86-0863-436C-9E04-3EA455A7AEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientEntityFrameMVC", "ClientEntityFrameMVC\ClientEntityFrameMVC.csproj", "{C614B3B4-9BEF-4A4B-B527-0AF2CE4B6A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797C8E86-0863-436C-9E04-3EA455A7AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C8E86-0863-436C-9E04-3EA455A7AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C8E86-0863-436C-9E04-3EA455A7AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C8E86-0863-436C-9E04-3EA455A7AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C614B3B4-9BEF-4A4B-B527-0AF2CE4B6A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C614B3B4-9BEF-4A4B-B527-0AF2CE4B6A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C614B3B4-9BEF-4A4B-B527-0AF2CE4B6A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C614B3B4-9BEF-4A4B-B527-0AF2CE4B6A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FE0CAF-47EA-4BA4-B402-6DE2236647FF}
+	EndGlobalSection
+EndGlobal
